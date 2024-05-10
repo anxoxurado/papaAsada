@@ -6,3 +6,5 @@ push significa enviar mis cambios al repositorio remoto
 pull significa actualizar mi repositorio local
 
 COMMIT significa indicar al control de versiones que los cambios hechos son definitivos
+
+PR pull request. Peticion o proceso para juntar los cambios de una rama con otra, usualmente la principal
